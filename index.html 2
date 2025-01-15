@@ -1,0 +1,1440 @@
+
+ <div class="topnav">
+    <a href="https://codepen.io/Malou_NaNa/full/jENamYp" class="active">主页</a>
+    <a href="https://codepen.io/Malou_NaNa/full/VYZPPOp">图鉴</a>
+    <a href="https://codepen.io/Malou_NaNa/full/bNbLeev">角色与故事线</a>
+       </div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>宝可梦图鉴</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>宝可梦图鉴</h1>
+  </header>
+  <main>
+    <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png" alt="妙蛙种子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0001">妙蛙种子 (Bulbasaur)</a></h2>
+      
+      <h2>0001</h2>
+      <p>草和毒属性宝可梦，背上的种子会随着成长而开花。</p>
+      
+    </div>
+      <div class="pokemon-card">
+      <img src="https://moegirl.icu/media/thumb/Pokemon_Gen1_Ivysaur.png/280px-Pokemon_Gen1_Ivysaur.png" alt="妙蛙草">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0002">妙蛙草 (lvysaur)</a></h2>
+        <h2>0002</h2>
+      <p>沐浴在阳光下越久，身体内会涌出越多力量，背上的花苞也会渐渐成长。</p>
+    </div>
+        <div class="pokemon-card">
+      <img src="https://g.udn.com.tw/upfiles/B_RA/railwayTaiwan/PSN_PHOTO/312/f_18269312_1.png" alt="妙蛙花">
+      <h2><a  href="https://tw.portal-pokemon.com/play/pokedex/0003">妙蛙花 (Venusaur)</a></h2>
+             </h2>
+          <h2>0003</h2>
+      <p>因为能将沐浴到的太阳光转换成能量，所以在夏天会变得更强。</p>
+    </div>
+      <div class="pokemon-card">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvCBNX4FJGPOR8TzrEF3TuYaoXySGZBLejw&s" alt="超级妙蛙花">
+     <h2><a  href="https://tw.portal-pokemon.com/play/pokedex/0003_1">超級妙蛙花 (Mega Venusaur)</a></h2>
+        <h2>0003</h2>
+      <p>据说充足的营养和阳光会让花儿的颜色变得更加鲜艳。花香会治愈人心。</p>
+    </div>
+     <div class="pokemon-card">
+      <img src="https://game.portal-pokemon.com/sword_shield_expansion/sc/pokemon/img/pokemon-v3-6_5.png" alt="超极巨化妙蛙花">
+      <h2><a  href="https://tw.portal-pokemon.com/play/pokedex/0003_2"> 超极巨化妙蛙花(Gigantamax Venusaur)</a></h2>
+       <h2>0003</h2>
+      <p>通过挥舞２根粗壮的藤蔓来战斗。其力量强到就连10层高的大楼都能轻易撂倒。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/d0ee81f16175c97770192fb691fdda8da1f4f349.png" alt="小火龙">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0004">小火龙 (Charmander)</a></h2>
+      <h2>0004</h2>
+      <p>火属性宝可梦，它尾巴的火焰会随着情绪波动而变化。</p>
+    </div>
+      <div class="pokemon-card">
+      <img src="https://g.udn.com.tw/upfiles/B_RA/railwayTaiwan/PSN_PHOTO/123/f_18272123_1.png" alt="火恐龙">
+        <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0005">火恐龙 (Charmeleon)</a></h2>
+        <h2>0005</h2>
+      <p>如果挥舞燃烧着的尾巴，就能令周围温度不断上升，从而让对手陷入痛苦。</p>
+    </div>
+     <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/2050f1fd1283f473d7d048f8631712e7e003f802.png" alt="喷火龙">
+       <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0006">喷火龙(Charizard)</a></h2>
+       <h2>0006</h2>
+      <p>当喷火龙真的生气时，它的尾巴前端就会燃起青白色的火焰。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBTuNATGOZ7sXTXftfX_1SpPJ1ijuda5cDw&s" alt="超级喷火龙Ｘ">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0006_1">超级喷火龙Ｘ(Charizardite X)</a></h2>
+       <h2>0006</h2>
+      <p>会在空中飞来飞去寻找强大的对手。对于比它弱小的对手，它不会吐出那可熔化一切的高温火焰。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/0aa78a0061bda9d88cbb0bbf739cd9cc56522fe9.png" alt="超级喷火龙Y">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0006_2">超级喷火龙Y(Charizardite Y)</a></h2>
+       <h2>0006</h2>
+      <p>会在空中飞来飞去寻找强大的对手。对于比它弱小的对手，它不会吐出那可熔化一切的高温火焰。</p>
+    </div>
+     <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/2fd12098f15628cce80d411e090189aeb7d758ff.png" alt="超级喷火龙Y">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0006_3">超极巨化喷火龙(Gigantamax Charizardite)</a></h2>
+       <h2>0006</h2>
+      <p>超极巨化之力不仅让喷火龙变得更加巨大，还让它获得了熊熊燃烧的翅膀。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVv79fMdgPfRX4vj1Ur-kdIb8W3zVUbSYDHg&s" alt="杰尼龟">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0007">杰尼龟 (Squirtle)</a></h2>
+      <h2>0007</h2>
+      <p>水属性宝可梦，能用水炮攻击敌人，并用坚硬的壳保护自己。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/a3bc17e6215031332462cc64e59b7922ddd14b91.png" alt="卡咪龟">
+  <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0008">卡咪龟 (Wartortle)</a></h2>
+  <h2>0008</h2>
+      <p>长而蓬松的尾巴是长寿的象征，深受长者的喜爱。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://g.udn.com.tw/upfiles/B_RA/railwayTaiwan/PSN_PHOTO/560/f_18273560_1.png" alt="水箭龟">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0009">水箭龟 (Blastoise)</a></h2>
+      <h2>0009</h2>
+      <p>为了能抵挡住喷射水时的后坐力，它故意增加了体重。</p>
+    </div>
+     <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/009m.png" alt="超级水箭龟">
+        <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0009_1">超级水箭龟 (Mega Blastoise)</a></h2>
+      <h2>0009</h2>
+      <p>甲壳上的喷射口能够精准地瞄准目标。打出的水弹可以命中50米外的空罐子。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/009g.png" alt="超極巨化水箭">
+      <h2>超極巨化水箭 (Gigantamax Blastoise)</a></h2>
+  <h2>0009</h2>
+      <p>不擅长精细的射击。使用31门大炮连续不断地发射炮弹，才是它的攻击风格。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/010.png" alt="綠毛蟲">
+      <h2>綠毛蟲 (green caterpillar)</a></h2>
+  <h2>0010</h2>
+      <p>会从头部的触角中释放出强烈的臭气，以此来赶走敌人保护自己。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/011.png" alt="鐵甲蛹">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0011">鐵甲蛹 (Armored pupa)</a></h2>
+  <h2>0011</h2>
+      <p>正处于等待进化的状态。除了变硬之外什么都做不了，只能动也不动以免引来袭击。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/012.png" alt="巴大蝶">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0012">巴大蝶 (Butterfly)
+        </a></h2>
+  <h2>0012</h2>
+      <p>当它飞快地扑打翅膀，带有剧毒的鳞粉就会随着风向这里飘过来。</p>
+    </div>
+      <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/012g.png" alt="超極巨化巴大蝶">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0012_1">超極巨化巴大蝶 (Gigantamax butterfly)</a></h2>
+  <h2>0012</h2>
+      <p>超极巨化之力结晶化之后，变成了闪闪发亮的剧毒鳞粉。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/013.png" alt="獨角蟲">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0013">獨角蟲 (One-horned bug)</a></h2>
+  <h2>0013</h2>
+      <p>有着非常灵敏的嗅觉。能用大大的红鼻子闻出自己喜欢吃和不喜欢吃的叶子。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/014.png" alt="鐵殼蛹">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0014">鐵殼蛹 (Iron shell pupa)</a></h2>
+  <h2>0014</h2>
+      <p>虽然挂在树上几乎一动不动，但体内却在为进化而忙碌地准备着。那证据就是它的身体会变得很热。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/015.png" alt="大針蜂">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0015">大針蜂 (giant needle bee)</a></h2>
+  <h2>0015</h2>
+      <p>大针蜂的领地意识非常强，所以为了安全起见，不要接近它的住处。它一生气，就会群起而攻之。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/015m.png" alt="超級大針鋒">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0015_1">超級大針鋒 (Mega Needle Bee)</a></h2>
+  <h2>0015</h2>
+      <p>大针蜂的领地意识非常强，所以为了安全起见，不要接近它的住处。它一生气，就会群起而攻之。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/016.png" alt="波波">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0016">波波 (Bobo)</a></h2>
+  <h2>0016</h2>
+      <p>因为方向感非常好，所以无论离自己的巢穴多远，都能毫不迷路地飞回来。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/017.png" alt="比比鳥">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0017">比比鳥 (Bibi bird)</a></h2>
+  <h2>0017</h2>
+      <p>会飞在空中巡视自己广阔的领地。要是有谁胆敢侵犯它的领地，它就会毫不留情地用利爪狠狠惩治一番。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/018.png" alt="大比鳥">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0018">大比鳥 (Big bird)</a></h2>
+  <h2>0018</h2>
+      <p>有着靓丽羽毛的宝可梦。有很多训练家因拜倒在它美丽的头羽下而来培育大比鸟。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/018m.png" alt="超級大比鳥">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0018_1">超級大比鳥(Mega Big bird)</a></h2>
+  <h2>0018</h2>
+      <p>有着靓丽羽毛的宝可梦。有很多训练家因拜倒在它美丽的头羽下而来培育大比鸟。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/019.png" alt="小拉達">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0019">小拉達 (Little Lada)</a></h2>
+  <h2>0019</h2>
+      <p>门牙会终生生长。但要是长得太长，就会因无法进食而饿死。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/019a.png" alt="小拉達 阿羅拉的樣子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0019_1">小拉達 阿羅拉的樣子 (Alolan Rattata)</a></h2>
+  <h2>0019</h2>
+      <p>只对新鲜的东西感兴趣。如果带它去买东西，在挑选食材时会很有帮助。
+</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/020.png" alt="拉達">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0020">拉達 (Lada)</a></h2>
+  <h2>0020</h2>
+      <p>据说会用后脚上小小的蹼泅水渡海，穿越岛屿来躲避敌人的追击。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/020a.png" alt="拉達 阿羅拉的樣子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0020_1">拉達 阿羅拉的樣子(Radha Arora)</a></h2>
+  <h2>0020</h2>
+      <p>性格非常贪婪。巢穴里满是让小拉达们收集起来的，吃都吃不完的食物。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yAzScNaohpJH52jtYWbiC6y3znOSjbIFmA&s" alt="烈雀">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0021">烈雀 (Spearow)</a></h2>
+  <h2>0021</h2>
+      <p>生性鲁莽，只要是为了保护自己的领地，即便对手是大型宝可梦，也仍会冲向对手。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/022.png" alt="大嘴雀">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0022">大嘴雀 (Toucan)</a></h2>
+  <h2>0022</h2>
+      <p>在大嘴雀的领地上拿着食物走动可是相当危险的。食物转眼间就会被抢走。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://g.udn.com.tw/upfiles/B_RA/railwayTaiwan/PSN_PHOTO/681/f_18363681_1.png" alt="阿柏蛇">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0023">阿柏蛇 (Ekans)</a></h2>
+  <h2>0023</h2>
+      <p>能自由地让颚部脱臼，因此很大的猎物也能吞下，但会因为变重而无法动弹。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://g.udn.com.tw/upfiles/B_RA/railwayTaiwan/PSN_PHOTO/743/f_18363743_1.png" alt="阿柏怪">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0024">阿柏怪 (Arbok)</a></h2>
+  <h2>0024</h2>
+      <p>腹部的花纹看起来像一张可怕的脸。弱小的敌人只要看到这个花纹就会被吓跑。</p>
+    </div>
+    <<div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/2b3f6ff00db7a1efae21d85cfb8995eaff2da8d8.png" alt="皮卡丘">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0025">皮卡丘 (Pikachu)</a></h2>
+      <h2>0025</h2>
+      <p>电属性宝可梦，拥有充满活力的性格，是许多训练师的第一选择。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/go-shiny/25g.png" alt="超极巨化皮卡丘 ">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0025_1">超极巨化皮卡丘 (Gigantamax Pikachu)</a></h2>
+  <h2>0025</h2>
+      <p>膨胀的超极巨化之力使得它的身体变大，尾巴也变得高耸入云。</p>
+    </div>
+     <div class="pokemon-card">
+      <img src="https://moegirl.uk/images/d/d5/Pokemon_Gen1_Raichu.png" alt="雷丘">
+       <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0026"> 雷丘 (Raichu)</a></h2>
+       <h2>0026</h2>
+      <p>尾巴会发挥接地线的作用把电导入地面，因此自己不会被电到。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://www.pokemon.cn/play/resources/pokedex/img/pm/8be55a3ff2b24890fac0b9e2415dda9d0f893c1f.png" alt="雷丘阿罗拉的样子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0026_1"> 雷丘 阿罗拉的样子(Alola Form Raichu)</a></h2>
+  <h2>0026</h2>
+      <p>人们认为，它会进化成这个样子，是受到了阿罗拉地区的气候、风土以及食物的影响。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/027.png" alt="穿山鼠">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0027"> 穿山鼠 (Sandrat)</a></h2>
+  <h2>0027</h2>
+      <p>会挖出深深的洞穴用来生活。当危险逼近时，会蜷起身体一动不动地忍受敌人的攻击。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/027a.png" alt="穿山鼠 阿羅拉的樣子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0027_1">穿山鼠 阿羅拉的樣子 (Pangolin Alola's appearance)</a></h2>
+  <h2>0027</h2>
+      <p>栖息在雪山。钢的甲壳非常坚固，但因为过于坚硬，身体没法蜷缩起来。</p>
+    </div>
+      <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/028.png" alt="穿山王">
+        <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0028">穿山王 (Chuanshan King)</a></h2>
+  <h2>0028</h2>
+      <p>会敏捷地跑来跑去，擅长用背上的针和尖锐的爪进行攻击。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/028a.png" alt="
+穿山王 阿羅拉的樣子">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0028_1">
+        穿山王 阿羅拉的樣子 (Mountain King Alola)</a></h2>
+  <h2>0028</h2>
+      <p>钢针是用冰覆盖住的。被它刺中会造成很深的伤口，还会被冻伤。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/029.png" alt="
+尼多蘭♀">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0029">
+        尼多蘭♀ (Nidoran♀ )</a></h2>
+  <h2>0029</h2>
+      <p>人們認為牠是為了保護自己嬌小的身體才演化出了威力強大的毒針。生氣時會從角的尖端噴出劇毒。</p>
+    </div><div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/030.png" alt="
+尼多娜">
+       <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0030">
+        尼多娜 (Nidorina)</a></h2>
+  <h2>0030</h2>
+      <p>和夥伴及家人在一起的時候，會收起尖刺以避免傷到彼此。一旦離開夥伴似乎就會變得不安。</p>
+    </div><div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/031.png" alt="
+尼多后">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0031">
+        尼多后 (Nidoqueen)</a></h2>
+  <h2>0031</h2>
+      <p>擅長利用長滿堅硬鱗片的身體將對手撞飛的攻擊。在保護孩子的時候會發揮最強的力量</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/032.png" alt="
+尼多朗">
+      <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0032">尼多朗(
+Nidoran♂)</a></h2>
+  <h2>0032</h2>
+      <p>牽動耳朵的肌肉十分發達，可以隨意將耳朵轉動到任何方向。是無論多小的聲音也不會漏聽的寶可夢。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://hk.portal-pokemon.com/play/resources/pokedex/img/pm/f3d8e45646fb05516dff845922c3d62d9aa33cbe.png" alt="
+尼多力諾">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0033">尼多力諾(
+Nidorino)</a></h2>
+  <h2>0033</h2>
+      <p>有著比鑽石還要堅硬的角。感覺到敵人的氣息時，背上的刺會一起豎起來全力迎敵。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/034.png" alt="尼多王
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0034">尼多王(Nidoking)</a></h2>
+  <h2>0034</h2>
+      <p>粗尾巴的挥击有着能将坚固铁塔都折断的惊人破坏力。一旦陷入狂暴就拿它没办法了。
+</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/035.png" alt="皮皮
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0035">皮皮(Clefairy)</a></h2>
+  <h2>0035</h2>
+      <p>在满月的夜晚，不知从何处而来的皮皮们会聚集起来跳舞。沐浴到月光后会浮在空中。</p>
+    </div>
+    <div class="pokemon-card">
+      <img src="https://pokemon.wingzero.tw/assets/pokemon/036.png" alt="皮可西
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0036">皮可西
+(Clefable)</a></h2>
+  <h2>0036</h2>
+      <p>妖精的一種。不喜歡被看見身影。據說是住在寧靜的深山裡。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f285c634efd141918f6ad066a6f59c20746d9050.png" alt="六尾
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0037">六尾
+(Vulpix)</a></h2>
+  <h2>0037</h2>
+      <p>遭到比自己強大的對手襲擊時，會假裝受傷來迷惑對手，然後趁機逃走。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/89719dbcbddd11a1e6bc5f4366e00910a04eaf9f.png" alt="六尾
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0037_1">六尾
+阿羅拉的樣子(Alolan Vulpix)</a></h2>
+  <h2>0037</h2>
+      <p>成群結隊地互助生活。會吐出零下５０度的氣息，將獵物牢牢凍住後再進食。</p>
+    </div>
+   <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/cc96e6a4eee980724ebd725bb8785334d3290074.png" alt="九尾
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0037_1">九尾(Alolan Vulpix)</a></h2>
+  <h2>0037</h2>
+      <p>成群結隊地互助生活。會吐出零下５０度的氣息，將獵物牢牢凍住後再進食。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/397b20ea73c8358185d6f1d2971b5825b0cb0baf.png" alt="九尾阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0038_1">九尾
+阿羅拉的樣子(Alolan Ninetale)</a></h2>
+  <h2>0038</h2>
+      <p>性格穩重。被人知道是九尾的地區形態之前，一直被尊敬為神的化身。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7a2bec0dd522d66353f0cf3df9148070456a3349.png" alt="胖丁
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0039">胖丁(Jigglypuff)</a></h2>
+  <h2>0039</h2>
+      <p>當牠圓圓的大眼睛轉動時，就會唱起奇妙的歌曲，讓人舒服地昏昏欲睡。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b3724395d41de1d0def948966c69148bd9f0f9c1.png" alt="胖可丁
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0040">胖可丁(Wigglytufff)</a></h2>
+  <h2>0040</h2>
+      <p>擁有細緻的毛皮。小心別惹牠生氣，否則牠會不斷膨脹並朝著你壓過來。</p>
+    </div>
+   <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5d54b9d9cefa287ea258517537ba26f4103dda36.png" alt="超音蝠
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0041">超音蝠(
+Zubat)</a></h2>
+  <h2>0041</h2>
+      <p>因為沒有眼珠所以看不見東西。會從口中發出超音波來探測周圍的狀況。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/cedbf9afd3155d3df1e2ffebf049902598ebd74b.png" alt="大嘴蝠
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0042">大嘴蝠(
+Golbat)</a></h2>
+  <h2>0042</h2>
+      <p>有時可以看見因為肚子太餓而去咬鋼屬性寶可夢，結果因此缺了牙齒的大嘴蝠。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6bad448cb0997a928b94e72b67eacb861271f796.png" alt="走路草
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0043">走路草(Oddish)</a></h2>
+  <h2>0043</h2>
+      <p>別名謎行草。據說每到夜裡，牠會用２條根走上長達３００公尺的距離。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/62973d0fc5f9bd5d8c819b8c885bd1f216983ff1.png" alt="臭臭花
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0044">臭臭花(
+Gloom)</a></h2>
+  <h2>0044</h2>
+      <p>從口中緩緩滲出的不是口水，而是類似花蜜的汁液，被牠用來引誘獵物接近。</p>
+    </div>
+  <div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/a95af5f577260373074117cb756e5ea38cd674ef.png" alt="霸王花
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0045">霸王花(
+Vileplume)</a></h2>
+  <h2>0045</h2>
+      <p>當花苞隨著「砰！」的聲響綻放後，就會開始散播能引起過敏反應的毒花粉。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/837bcac8efc9329d9e3b9e46e95670a5d493b60a.png" alt="派拉斯
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0046">派拉斯(Paras)</a></h2>
+  <h2>0046</h2>
+      <p>不知是因為濕氣不夠還是營養不足，阿羅拉的派拉斯背上的蘑菇長得都不怎麼樣。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/e5838e76eb33d88601ba9d6e045e1bdf7e20f46a.png" alt="派拉斯
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0047">派拉斯特(
+Parasect)</a></h2>
+  <h2>0047</h2>
+      <p>本體是背上的蘑菇，底下的蟲子幾乎已經死亡。一旦蘑菇脫落，牠就再也不會動了。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8b550ab54d22a87dc784ee1af6cff4ad33aa10a2.png" alt="毛球
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0048">毛球(Venonat)</a></h2>
+  <h2>0048</h2>
+      <p>全身上下都會滲出毒素。天黑後就會去捕捉聚在燈光處的小型蟲寶可夢。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c57d464a64424f031a9872f2ec3f7c0b8052d3c1.png" alt="摩魯蛾
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0049">摩魯蛾(Venomoth)</a></h2>
+  <h2>0049</h2>
+      <p>翅膀上附著鱗粉，每次翩翩拍動翅膀，就會散播劇毒的粉末。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/583fa625d6fda586a5734f5f9e455952aa6af15f.png" alt="地鼠
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0050">地鼠(Diglett)</a></h2>
+  <h2>0050</h2>
+      <p>在大約１公尺深的地底挖洞前進，靠啃食樹根之類的東西生存。偶爾會到地面上露個臉。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/19bd3a09933b3e9a0a7156ef294091922dbf771e.png" alt="地鼠阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0050_1">地鼠阿羅拉的樣子(Alolan Diglett)</a></h2>
+  <h2>0050</h2>
+      <p>從頭上長出來的是鬍鬚變化而來的金屬物體。隨著擺動跟夥伴進行交流。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/de7c2ea1a9f39427b4732a6122284f257f9e87aa.png" alt="三地鼠
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0051">三地鼠(
+Dugtrio)</a></h2>
+  <h2>0051</h2>
+      <p>三顆頭會輪流活動，是為了讓周圍的土變得更鬆更好挖。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7ba9403c475a889eadffb71b6cceae6e13c91a8e.png" alt="三地鼠
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0051_1">三地鼠
+阿羅拉的樣子(Alolan Dugtrio)</a></h2>
+  <h2>0051</h2>
+      <p>閃著金光的鬍鬚是靈敏度極高的感應器。就連數公里外的聲音也能透過振動感應到。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6ea01871238908780334293e6407033650d803a9.png" alt="喵喵
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0052">喵喵(Meowth)</a></h2>
+  <h2>0052</h2>
+      <p>白天一直都在睡覺。到了晚上眼睛就會發光，在自己的地盤徘徊.</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/57a0c88227aa0fe2327d79af31eb9516d4728752.png" alt="喵喵
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0052_1">喵喵
+阿羅拉的樣子(Alolan Meowth)</a></h2>
+  <h2>0052</h2>
+      <p>過去曾經和阿羅拉的王族一起享受奢侈浮華的生活，所以對食物十分挑剔。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/704fc0cde74c862f2063faefcf40eb67752a8637.png" alt="喵喵
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0052_2">喵喵
+伽勒爾的樣子(Galarian Meowth)</a></h2>
+  <h2>0052</h2>
+      <p>和好戰的海洋民族一起生活，久而久之身體的各個地方就都變成了黑鐵。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/bff57f3b31012cef1da149224a84180492f90ed4.png" alt="喵喵
+超極巨化
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0052_3">喵喵
+超極巨化(Gigantamax Meowth)</a></h2>
+  <h2>0052</h2>
+      <p>人們認為牠額頭上金幣浮現出的紋路中蘊藏著解開極巨化之謎的關鍵。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8da0bb6b5587f2150f41b08e0d61a80827d7229f.png" alt="貓老大
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0053">貓老大
+(Persian)</a></h2>
+  <h2>0053</h2>
+      <p>有著漂亮的毛色，很多人想養牠當寵物，但牠很愛亂抓，所以並不好養。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/4341e35269528c91e75b6516b820804a37d9eebf.png" alt="貓老大
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0053_1">貓老大
+阿羅拉的樣子
+(Alolan Persian-GX)</a></h2>
+  <h2>0053</h2>
+      <p>由於在阿羅拉地區圓臉是富貴的象徵，人們對貓老大呵護備至。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/0783062d0d860b8ae7d8e859241a700359c4d981.png" alt="可達鴨
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0054">可達鴨
+(Psyduck)</a></h2>
+  <h2>0054</h2>
+      <p>一直受到頭痛的困擾。當頭痛欲裂時，就會開始使用神奇的力量。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/0dd5b6e921f55c5d49978b84ee66e458336518ae.png" alt="哥達鴨
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0055">哥達鴨
+(Psyduck)</a></h2>
+  <h2>0055</h2>
+      <p>當牠用帶有水蹼的修長手腳全力游泳時，不知為何額頭會閃閃發光。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/00fb5703d7c2b7a89933bbed89f4c84e48c59ea2.png" alt="猴怪
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0056">猴怪
+(Psyduck)</a></h2>
+  <h2>0056</h2>
+      <p>在樹上群居的寶可夢。和夥伴走散的猴怪會因為按捺不住寂寞而動不動就生氣。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/37a3edfcf9c5cbdb68bcf8945ff89fe2999e5a30.png" alt="火爆猴
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0057">火爆猴
+(Primeape)</a></h2>
+  <h2>0057</h2>
+      <p>光是感覺到他方的視線都會暴怒起來，然後去追和牠對到眼的傢伙。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/333e2aef290059dc46274b77ea4095094784316a.png" alt="卡蒂狗
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0058">卡蒂狗
+(Growlithe)</a></h2>
+  <h2>0058</h2>
+      <p>能毫不畏懼地去對抗比自己更強更大的對手。性格非常勇敢可靠。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/aec5b543798b097df9aa33f8196aebac539396db.png" alt="卡蒂狗
+洗翠的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0058_1">卡蒂狗
+洗翠的樣子
+(Hisuian Growlithe)</a></h2>
+  <h2>0058</h2>
+      <p>兩隻一組共同負責地盤的警戒工作。體毛中混有火成岩的成分，可以推想這是受到火山活動的影響。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7ef9e71e9dc624e5558d7b4619f75ea8659eff55.png" alt="風速狗
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0059">風速狗
+(Arcanin)</a></h2>
+  <h2>0059</h2>
+      <p>根據過去的畫軸記載，牠在草原上奔馳的姿態擄獲了眾多人心。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f5f24c200a43eacd566f7df5af349860ae37dbb5.png" alt="風速狗
+洗翠的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0059_1">風速狗
+洗翠的樣子
+(Hisuian Arcanine)</a></h2>
+  <h2>0059</h2>
+      <p>將猛烈燃燒的火焰纏繞在牙齒上撲向獵物。雖然體型很大，卻能以靈巧的假動作戲弄敵手，那姿態就像是舞蹈一般。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8e8d47c5af6084904793496ddddb3e5f516e79f7.png" alt="蚊香蝌蚪
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0060">蚊香蝌蚪
+(Poliwag)</a></h2>
+  <h2>0060</h2>
+      <p>腹部的漩渦是透過皮膚可以看到的部分內臟。在牠進食後可以明顯看到。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7e16ace7443d45cc1def215c8cf82beefc69041c.png" alt="蚊香君
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0061">蚊香君
+(Poliwag)</a></h2>
+  <h2>0061</h2>
+      <p>２條腿很發達，雖然可以在陸地上生活，但不知為何更喜歡生活在水裡。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/da2fce266d1c13743742451617b2976d6bfd483d.png" alt="蚊香泳士
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0062">蚊香泳士
+(Poliwrath)</a></h2>
+  <h2>0062</h2>
+      <p>擅長運用全身所有的肌肉展現躍動感十足的泳技，但不知為何卻生活在陸地上。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5d05e6f2393a6a72fb36da26a79fd3db95ae7412.png" alt="凱西
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0063">凱西
+(Abra)</a></h2>
+  <h2>0063</h2>
+      <p>即使在睡夢中也會使出各式各樣的超能力，所以很難分辨牠是不是醒著。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/96613b8fe63edfdf800cde823078fadc6ea9aae9.png" alt="勇基拉
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0064">勇基拉
+(Kadabra)</a></h2>
+  <h2>0064</h2>
+      <p>會盯著銀湯匙瞧，來增強並釋放精神力量。換成金湯匙似乎就沒用了。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/265d42cf68deea0a54dacf3a4f1953198f55ad53.png" alt="胡地
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0065">胡地
+(Alakazam)</a></h2>
+  <h2>0065</h2>
+      <p>手中的湯匙是胡地用超能力製造出來的，是全世界獨一無二的作品。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/0074c7d90ce7d2a6926d28fe777d2bcb0b4ccb0b.png" alt="腕力
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0066">腕力
+(Machop)</a></h2>
+  <h2>0066</h2>
+      <p>全身都是肌肉，雖然體型只有小孩那麼大，卻可以扔飛１００個大人。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/634e1c205ab72071fe941043f816a9e2f31db3ae.png" alt="豪力
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0067">豪力
+(Machoke)</a></h2>
+  <h2>0067</h2>
+      <p>因為肉體非常強韌，所以戴著力量限制腰帶來控制力量。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8f2f69ae05bd6c76f0d6fe6d03f1e22ec1a8010a.png" alt="怪力
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0068">怪力
+(Machamp)</a></h2>
+  <h2>0068</h2>
+      <p>能夠迅速活動４隻手臂，從各種角度毫不停歇地使出拳擊或手刀。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/aae2243d7c93e2cba33b000fbd92fcb050157d4e.png" alt="怪力
+超極巨化
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0068_1">怪力
+超極巨化
+(Gigantamax Machamp)</a></h2>
+  <h2>0068</h2>
+      <p>能夠迅速活動４隻手臂，從各種角度毫不停歇地使出拳擊或手刀。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/47ae88a63c66e32e957da303ad50b72268e097e4.png" alt="喇叭芽
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0069">喇叭芽
+(Bellsprout)</a></h2>
+  <h2>0069</h2>
+      <p>只要周圍有會動的東西，不論何時都會立即作出反應，將細細的藤蔓伸往該處去。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b19541cee78bc2a00eb3f59f7a2fcca67469eb78.png" alt="口呆花
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0070">口呆花
+(Weepinbell)</a></h2>
+  <h2>0070</h2>
+      <p>由於牠同時也會分泌消除溶解液效果的液體，因此自己不會被溶化。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f010b09344a212ecb98c6f209233c0661db0e7a8.png" alt="大食花
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0071">大食花
+(Victreebel)</a></h2>
+  <h2>0071</h2>
+      <p>一旦被如花蜜般的香氣吸引到牠的口中，便是死路一條。下場是被溶解液溶化掉。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/3da5f9c26f39884f5f44a861e6965fdc1722241b.png" alt="瑪瑙水母
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0072">瑪瑙水母
+( Jellyfish)</a></h2>
+  <h2>0072</h2>
+      <p>退潮之後，能見到被留在沙灘上而曬得乾巴巴的瑪瑙水母。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/e8720bf3fe40182141dc5f442f5fb83eff544a6e.png" alt="毒刺水母
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0073">毒刺水母
+(Tentacruel)</a></h2>
+  <h2>0073</h2>
+      <p>罕見地大量出現時，周圍海域的魚寶可夢會一隻不剩地全部消失。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/4b483c95c2124018519380eaa06cc657c5b76a64.png" alt="小拳石
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0074">小拳石
+(Geodude)</a></h2>
+  <h2>0074</h2>
+      <p>不動的時候怎麼看都是個小石頭。要是因此不小心一腳踩上去，牠是會猛揮拳頭大發雷霆的。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c8870cfb5aae00c6b70d6550721b5bf51c73bf52.png" alt="小拳石
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0074">小拳石
+阿羅拉的樣子
+(Alolan Geodude)</a></h2>
+  <h2>0074</h2>
+      <p>石頭身體帶有磁力。在磁力特別強的部分附著密密麻麻的鐵砂哦。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f3ae64c5acf41a159e07b63da847cccc773bb184.png" alt="隆隆石
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0075">隆隆石
+(Graveler)</a></h2>
+  <h2>0075</h2>
+      <p>因為走路也走不快，所以會翻滾來移動。途中有什麼牠都不在意。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c91fbd40a228a6caa5f9b128715790fd536be2d6.png" alt="隆隆石
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0075_1">隆隆石阿羅拉的樣子
+(Alolan Graveler)</a></h2>
+  <h2>0075</h2>
+      <p>為尋找吃的石頭而打架。隆隆石們每次互相碰撞都會發出爆炸聲和耀眼的光芒。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/02fb8976b07089e975a9911ae2ff1327b5e3340d.png" alt="隆隆岩
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0076">隆隆岩
+(Golem)</a></h2>
+  <h2>0076</h2>
+      <p>身上覆蓋著像岩盤般堅硬的殼。隨著１年１次的蛻皮，身體會變得越來越大。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b7df1424a881e4d3232e6dd0ebc9d1908309e588.png" alt="隆隆岩
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0076">隆隆岩
+阿羅拉的樣子
+(Alolan Golem)</a></h2>
+  <h2>0076</h2>
+      <p>個性頑固且難相處。心情不好的時候會從全身放電，並發出像雷鳴般的吼叫聲。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/dacab2be1777c14ed7da12824dd85c2cdbd2ebf9.png" alt="小火馬
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0077">小火馬
+(Ponyta)</a></h2>
+  <h2>0077</h2>
+      <p>剛出生的時候不擅長奔跑，但隨著和夥伴們不斷地賽跑，會逐漸鍛鍊出強健的腳力。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5dc1659954564f3015fc72060bbd87b98808aed4.png" alt="小火馬
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0077_1">小火馬
+伽勒爾的樣子
+(Galarian Ponyta)</a></h2>
+  <h2>0077</h2>
+      <p>小小的角裡蘊藏著治癒之力。如果只是一點小傷，牠只要用角輕擦傷口就能治癒。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/cb874883fcffc227e8d065e275221e1e05ece46c.png" alt="烈焰馬
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0078">烈焰馬
+(Rapidash)</a></h2>
+  <h2>0078</h2>
+      <p>任由燃燒的鬃毛隨風飄揚，以每小時２４０公里的速度在大草原上自在奔馳。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/ef678c969aef014b48cf390e0e04e3f0096020c9.png" alt="烈焰馬
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0078_1">烈焰馬
+伽勒爾的樣子
+(Galarian Rapidash)</a></h2>
+  <h2>0078</h2>
+      <p>會從角發射強力的精神利刃。那超群的破壞力甚至可以在厚厚的鐵板上開出洞來。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/441132f5cdf87b0e46f96952f16c2dfc75911054.png" alt="呆呆獸
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0079">呆呆獸
+(Slowpoke)</a></h2>
+  <h2>0079</h2>
+      <p>動作遲鈍且呆頭呆腦。就算挨打也得花上５秒才會感受到疼痛。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/e1c9ec78e7a009185df15c4defd0db6b0c1a5727.png" alt="呆呆獸
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0079_1">呆呆獸伽勒爾的樣子
+(Galarian Slowpoke)</a></h2>
+  <h2>0079</h2>
+      <p>主食中的香料成分滲入了身體，使牠渾身帶著刺激的香味。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/4d93d1171a1b9551989b17b4ae6838e4e9e98378.png" alt="呆殼獸
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0080">呆殼獸
+(Slowbro)</a></h2>
+  <h2>0080</h2>
+      <p>呆呆獸去海裡捕食時，被大舌貝咬住了尾巴，於是就變成了呆殼獸。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b4ff1375aa8d23aff0cc09a2f96773fbdd8e3843.png" alt="超級呆殼獸
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0080_1">超級呆殼獸
+(Mega Slowbro)</a></h2>
+  <h2>0080</h2>
+      <p>驚人的能量強化了尾巴上大舌貝的力量。對呆呆獸倒是沒什麼影響。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/3862fc122debc9675749142a7c76f1a64dbbc60d.png" alt="呆殼獸伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0080_2">呆殼獸伽勒爾的樣子
+(Galarian Slowbro)</a></h2>
+  <h2>0080</h2>
+      <p>咬住牠手臂的大舌貝雖然已因滲出的毒素而失去了意識，但也因太美味而彷彿置身夢境。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8dfff91e7e39b06d0a9fcfb414565b25de55bdf1.png" alt="小磁怪
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0081">小磁怪
+(Magnemite)</a></h2>
+  <h2>0081</h2>
+      <p>從左右兩邊的組件發出的電磁波能阻礙重力，使牠浮在空中。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f8732c548e90780b660f65926e5567755aa2a6c.png" alt="三合一磁怪
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0082">三合一磁怪
+(Magneton)</a></h2>
+  <h2>0082</h2>
+      <p>３隻小磁怪因著強烈的磁力而結合。只要靠近牠就會發生強烈的耳鳴。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/810c4dc60ff4f315216717a2ecaa3c7dfe3fcf09.png" alt="大蔥鴨
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0083">大蔥鴨
+(Farfetch'd)</a></h2>
+  <h2>0083</h2>
+      <p>會將翅膀所拿的莖狀植物當成劍一般去劈砍對手。在非常時期會拿它當作食物。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/47201403d2e427655cb49df00895018ef8d750fd.png" alt="大蔥鴨
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0083_1">大蔥鴨伽勒爾的樣子
+(Galarian Farfetch'd)</a></h2>
+  <h2>0083</h2>
+      <p>生活在伽勒爾的大蔥鴨。揮舞著又粗又壯的大蔥，是英勇奮戰的戰士。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/63ff86cee884446925e664d99b82e3e8de988412.png" alt="嘟嘟
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0084">嘟嘟
+(Doduo)</a></h2>
+  <h2>0084</h2>
+      <p>基因完全一致的兩顆頭在戰鬥時會展現出完美無缺的團隊默契。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/de41d6a29c38d65f1f39bc5ecb3afe30c5e057eb.png" alt="嘟嘟利
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0085">嘟嘟利
+(Dodrio)</a></h2>
+  <h2>0085</h2>
+      <p>肺和心臟都增加為３個。雖然跑起來比嘟嘟慢，但卻能長時間持續奔跑。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/fc1342f9b5bc761333a44d74dc47ba0ff30ad6c8.png" alt="小海獅
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0086">小海獅
+(Seel)</a></h2>
+  <h2>0086</h2>
+      <p>頭上有著非常堅硬的突起部分。能夠用頭錘撞破冰山來開路前進。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/2a2e293a8524ac94136bada7346ddfe57e12e47e.png" alt="白海獅
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0087">白海獅
+(Dewgong)</a></h2>
+  <h2>0087</h2>
+      <p>會在水溫變低的夜晚為了尋找食物而四處游動。白天會在淺海的海底睡覺。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/57f22ceb2f8765f927ff3fd1f4b4bf52a7033097.png" alt="臭泥
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0088">臭泥
+(Grimer)</a></h2>
+  <h2>0088</h2>
+      <p>污泥變成的寶可夢。會聚集在骯髒的地方來繁殖身體的細菌。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/61096756c8bfed61fbcc938bd3d964012f00cc89.png" alt="臭泥
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0088_1">臭泥
+阿羅拉的樣子
+(Alolan Grimer)</a></h2>
+  <h2>0088</h2>
+      <p>由於會把毒素儲存在體內，因此和其他地區的臭泥不同，即使靠近牠也不會覺得臭。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/db91b8849e602828aaff3939f9e0816dd9ce92ab.png" alt="臭臭泥
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0089">臭臭泥
+(Muk)</a></h2>
+  <h2>0089</h2>
+      <p>全身上下沾滿污泥。光是碰到牠的足跡，都會受到毒素的侵襲。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/d83b601f999b3df4c958c5e5bc8f1e5b21b2594b.png" alt="臭臭泥
+阿羅拉的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0089_1">臭臭泥阿羅拉的樣子
+(Alolan Muk)</a></h2>
+  <h2>0089</h2>
+      <p>體內毒素的種類有１００種以上。毒素與毒素之間的化學反應是牠的生命之源。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/36918010e6d91103c9017f4ce4d1764c9f145db8.png" alt="大舌貝
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0090">大舌貝
+(Shellder)</a></h2>
+  <h2>0090</h2>
+      <p>包覆著身體的是比鑽石還硬的殼。不過殼裡面卻比想像中的還要柔軟。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/d5ebac9e1afe16f2a1d16a7593e022fc576aed9e.png" alt="刺甲貝
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0091">刺甲貝
+(Cloyster)</a></h2>
+  <h2>0091</h2>
+      <p>刺甲貝棲息在潮流湍急的海裡，殼上的刺又大又尖銳。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5c619391fb78cbe0d3646a9b76da07372a18580e.png" alt="鬼斯
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0092">鬼斯
+(Gastly)</a></h2>
+  <h2>0092</h2>
+      <p>會用氣體狀的身體纏住獵物，再從皮膚緩緩地注入毒素，使對手變得虛弱。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b8bcfb490b9a54a7cfc607ac82f413f4e582cb56.png" alt="鬼斯通
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0093">鬼斯通
+(Haunter)</a></h2>
+  <h2>0093</h2>
+      <p>喜歡躲在黑暗中伸出氣體構成的手去拍人的肩膀。一旦被接觸到，身體便會抖個不停。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/47549471dc54feb8acd4b3de3a27ea8e9e9fd25c.png" alt="耿鬼
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0094">耿鬼
+(Gengar)</a></h2>
+  <h2>0094</h2>
+      <p>會潛進獵物的影子裡，然後靜靜地等待奪取性命的機會到來。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/933fa0ef096191382ab20f5d6597ac7f8fbe336a.png" alt="超級耿鬼
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0094_1">超級耿鬼
+(Mega Gengar)</a></h2>
+  <h2>0094</h2>
+      <p>會奪取所有東西的生命。即使是身為牠主人的訓練家，也是牠試圖詛咒的對象。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/fd3052b825dd7dc2d4f78043ecd94b57f9cad36a.png" alt="超級耿鬼
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0094_2">超級耿鬼
+(Gigantamax Gengar)</a></h2>
+  <h2>0094</h2>
+      <p>身體裡填滿了詛咒的能量。據說牠巨大嘴巴的另一端連接著死後的世界。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/134d26303c22ac0e0173bdf5121a3a3aae10e36c.png" alt="大岩蛇
+">
+     <h2><a href="hhttps://tw.portal-pokemon.com/play/pokedex/0095">大岩蛇
+(Onix)</a></h2>
+  <h2>0095</h2>
+      <p>會一邊在地底挖掘前進，一邊吸收各種堅硬的物體，藉此讓身體變得更加結實。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/1d82671099cdd52c4a0b84724d72033d305538bd.png" alt="催眠貘
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0096">催眠貘
+(Drowzee)</a></h2>
+  <h2>0096</h2>
+      <p>能記住所有自己吃下的夢。由於小孩的夢更加美味，因此幾乎不吃大人的夢。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/9d0915f92dac45eca21a50d63799abe53404f7d4.png" alt="引夢貘人
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0097">引夢貘人
+(Hypno)</a></h2>
+  <h2>0097</h2>
+      <p>據說牠和對手對到眼時，就會使出催眠術等各式各樣的超能力。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/15ec38c5c458545368bf8e85da77d49f4b09104d.png" alt="大鉗蟹
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0098">大鉗蟹
+(Krabby)</a></h2>
+  <h2>0098</h2>
+      <p>能在海邊找到牠。巨大的鉗子即使斷掉也會再長出來。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/04f0bfa98547db408430513e07a15e3655095dca.png" alt="巨鉗蟹
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0099">巨鉗蟹
+(Kingler)</a></h2>
+  <h2>0099</h2>
+      <p>雖然堅硬的鉗子有著１萬馬力的力量，但尺寸太大讓牠行動遲緩。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/416c9cf7dbb527e3eac9d3b1eff2a98e03016087.png" alt="超極巨化">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0099_1">巨鉗蟹超極巨化
+(Gigantamax Kingler)</a></h2>
+  <h2>0099</h2>
+      <p>受到超極巨化之力影響而變得巨大的左鉗可以把任何東西都夾得粉碎。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/cfa3cfb38563c9afdb4d6fac40607fa78db97721.png" alt="霹靂電球">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0100">霹靂電球
+(Voltorb)</a></h2>
+  <h2>0100</h2>
+      <p>靠著翻滾身體來移動，如果地面凹凸不平，就會受到衝擊而爆炸。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/40f0019a5929a8fb09dc116169643d31191e5c80.png" alt="霹靂電球
+洗翠的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0100_1">霹靂電球
+洗翠的樣子
+(Hisuian Voltorb)</a></h2>
+  <h2>0100</h2>
+      <p>形狀頗似精靈球的奇異寶可夢。當情緒高漲時，積蓄在腹部的電流就會放出，同時發出大笑。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/823f1e2536f6036d7423f17fa4969ecd7cf08e00.png" alt="頑皮雷彈">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0101">頑皮雷彈
+(Electrode)</a></h2>
+  <h2>0101</h2>
+      <p>雖然儲存的電能越多，移動的速度也會變得越快，但同時也會變得更容易爆炸。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7b4d67f2933c0c43ad2258adf5386bd9d7fda8f8.png" alt="頑皮雷彈
+洗翠的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0101_1">頑皮雷彈洗翠的樣子
+(Electrode)</a></h2>
+  <h2>0101</h2>
+      <p>體表的組織與球果的成分極為接近，實在不可思議。當牠情緒焦躁時所放出的電流，能量足以匹敵２０次的落雷。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/2b23bf26e6063e8fe37a5122a112abb1a475b052.png" alt="蛋蛋">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0102">蛋蛋
+(Exeggcute)</a></h2>
+  <h2>0102</h2>
+      <p>若以為是蛋而去觸摸牠，就會被不斷聚集而來的蛋蛋的夥伴集體攻擊。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/a17a1d3fbeeba958495697c23b287b1966fd11dc.png" alt="椰蛋樹">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0103">椰蛋樹
+(Exeggutor)</a></h2>
+  <h2>0103</h2>
+      <p>被稱為會走路的熱帶雨林。每個果實都有自己的臉，而且各有各的思想。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/12017db6ac167715bbdc052ec40ae093e8cb7b7c.png" alt="椰蛋樹
+阿羅拉的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0103_1">椰蛋樹
+阿羅拉的樣子
+(Alolan Exeggutor)</a></h2>
+  <h2>0103</h2>
+      <p>能像甩鞭子一樣揮動長脖子，用頭重重地敲擊對手。自己也會有些頭暈眼花。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6c44a0ccb922bbb4345214f3fa0b9436a03c11f2.png" alt="卡拉卡拉">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0104">卡拉卡拉
+(Cubone)</a></h2>
+  <h2>0104</h2>
+      <p>因為思念死去的母親，會在夜裡大聲哭叫，導致自己被天敵禿鷹娜發現。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/1a2a79bce9b5c63de4d6db9b895a34ce6bf6733d.png" alt="嘎啦嘎啦">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0105">嘎啦嘎啦
+(Marowak)</a></h2>
+  <h2>0105</h2>
+      <p>會投擲骨頭擊落禿鷹娜。人們認為牠這麼做是為了幫母親報仇。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/cce0a0732b1db5e9efba7effa7c51020ed94de60.png" alt="嘎啦嘎啦
+阿羅拉的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0105_1">嘎啦嘎啦阿羅拉的樣子
+(Alolan Marowak)</a></h2>
+  <h2>0105</h2>
+      <p>綠意盎然的阿羅拉地區對嘎啦嘎啦來說是個嚴苛的環境。牠必須為了活下去而操縱火焰。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/3e864b76679d4c2d1e46878dc241e06bdb8f8d1d.png" alt="飛腿郎
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0106">飛腿郎
+(Hitmonlee)</a></h2>
+  <h2>0106</h2>
+      <p>在踢技命中的瞬間，會讓腳底的肌肉變硬，使威力提升至極限。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6c57fef755afbd6ddda7f3c21f20bb38159494c6.png" alt="快拳郎
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0107">快拳郎
+(Hitmonchan)</a></h2>
+  <h2>0107</h2>
+      <p>會左右使出組合拳把敵手逼入絕境，再以時速高達５００公里的直拳一口氣打倒對方。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/fe41bccc4b1fd3c2ab748d09a157e3c0c28c7700.png" alt="大舌頭
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0108">大舌頭
+(Lickitung)</a></h2>
+  <h2>0108</h2>
+      <p>不管什麼東西都會用長長的舌頭去舔舔看，被舔到的部位如果放著不管就會發炎。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/fd10b57c1ac95c00638aed70b4a41d679e9af2b6.png" alt="瓦斯彈
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0109">瓦斯彈
+(Koffing)</a></h2>
+  <h2>0109</h2>
+      <p>薄薄的氣球狀身體裡儲滿了劇毒的瓦斯，所以有時會發生大爆炸。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/4c76d556bda94f8eb8b73a9e58ef051262e78b7d.png" alt="雙彈瓦斯
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0110">雙彈瓦斯
+(Weezing)</a></h2>
+  <h2>0110</h2>
+      <p>若將牠體內所含的毒瓦斯稀釋到極限，就能做出最高級的香水。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c89593cd44d8354c16c11f5fa10143a6a8b4ab1f.png" alt="雙彈瓦斯
+伽勒爾的樣子
+">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0110_1">雙彈瓦斯伽勒爾的樣子
+(Galarian Weezing)</a></h2>
+  <h2>0110</h2>
+  <p>會吸收大氣中的污染成分，然後吐出新鮮的空氣，這就是牠的排泄方式。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8de47e638f274aae17eb13dc5c1e6e36e8224775.png" alt="獨角犀牛">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0111">獨角犀牛
+(Rhyhorn)</a></h2>
+  <h2>0111</h2>
+  <p>雖然會把半徑１０公里的範圍當作地盤，但跑著跑著似乎就會忘記自己的地盤在哪裡。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/2db37f2dc4e86437160294178fd134fb65a1e8c3.png" alt="鑽角犀獸">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0112">鑽角犀獸
+(Rhydon)</a></h2>
+  <h2>0112</h2>
+  <p>角的威力足以粉碎鑽石原石。會與夥伴碰撞彼此的角，藉此來打磨打亮它。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/67786c71bc7911f9faa28b01ab1b2cf661d4c28f.png" alt="吉利蛋">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0113">吉利蛋
+(Chansey)</a></h2>
+  <h2>0113</h2>
+  <p>心地很善良的寶可夢，會生出營養滿分的蛋分給受傷的寶可夢和人類。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/e6fdba2d3e167f34a8a75eb7ed3965fb3ddd4df8.png" alt="蔓藤怪">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0114">蔓藤怪
+(Tangela)</a></h2>
+  <h2>0114</h2>
+  <p>被敵人抓住時藤蔓會斷開。因為完全不會痛，所以牠會趁那個空檔逃走。藤蔓在第二天就會重新長好。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c959a88d4dd9e2007d466535100ae40439d8ff82.png" alt="袋獸">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0115">袋獸
+(Tangela)</a></h2>
+  <h2>0115</h2>
+  <p>把自己的孩子放進腹部的袋子裡保護，會毫不留情地狠狠教訓傷害自己孩子的傢伙。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/57e3691f703f91a79f5e5448b683c7fa1bc43e0c.png" alt="超級袋獸">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0115_1">超級袋獸
+(Mega Tangela)</a></h2>
+  <h2>0115</h2>
+  <p>沐浴了爆炸性能量的孩子得到了暫時性的成長，母親卻是擔心得不得了。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/7ef51aff01e21866babb18f14bac42790a65d5db.png" alt="墨海馬">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0116">墨海馬
+(Horsea)</a></h2>
+  <h2>0116</h2>
+  <p>即使被體型大的對手襲擊，也能操控發達的背鰭，在水中自由自在地逃跑。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/266278a59d39e9770b8f34c9a635243133334a28.png" alt="角金魚">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0118">角金魚
+(Goldeen)</a></h2>
+  <h2>0118</h2>
+  <p>會優雅地搖擺背鰭、胸鰭和尾鰭，所以被稱為水中的舞者。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f395dd22d77d0a3f298c4bd261a3c56ecfbdace7.png" alt="金魚王">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0119">金魚王
+(Seaking)</a></h2>
+  <h2>0119</h2>
+  <p>會優雅地搖擺背鰭、胸鰭和尾鰭，所以被稱為水中的舞者。。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/2b4031883bcdc61d67e67673af8d893bfa3dba5c.png" alt="海星星">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0120">海星星
+(Staryu)</a></h2>
+  <h2>0120</h2>
+  <p>在各地都流傳著星星落到海中之後變成了海星星的民間傳說。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6f6ffd1276a2a1fb4aa9843f9e2fed9e79d2ba5f.png" alt="寶石海星">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0121">寶石海星
+(Starmie)</a></h2>
+  <h2>0121</h2>
+  <p>閃耀的核心被人們稱為海中寶石。有人把它變成昂貴的飾品，在暗地裡偷偷買賣。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/3bf0162c653873e4ecf5810c830191bac19cb540.png" alt="魔牆人偶">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0122">魔牆人偶
+(Mr. Mime)</a></h2>
+  <h2>0122</h2>
+  <p>有很多學者認為牠大大的手掌是因為要表演默劇而發達起來的。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/2afea7495bb4f1fbaf5519849c735165dc85cf74.png" alt="魔牆人偶伽勒爾的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0122_1">魔牆人偶伽勒爾的樣子
+(Galarian Mr. Mime)</a></h2>
+  <h2>0122</h2>
+  <p>擅長踢踏舞。會用冷氣製造出冰之地板並將其踢起，以此作為保護自己的障壁。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/da1f6bb1f75f73b684a5b6902694912b697f6a4d.png" alt="飛天螳螂">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0123">飛天螳螂
+(Scyther)</a></h2>
+  <h2>0123</h2>
+  <p>會用鋒利的鐮刀割開草叢前進。因為動作實在太快，甚至無法用肉眼看清。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/8838c65ba52945317cda0d31f8de760860dd71ec.png" alt="迷唇姐">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0124">迷唇姐
+(Jynx)</a></h2>
+  <h2>0124</h2>
+  <p>會以獨特的節奏扭動腰部。棲息在阿羅拉的迷唇姐動作更是特別完美無瑕。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/af28498e1bd42cb316b6e2fa0c34b68f2ce89ce8.png" alt="電擊獸">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0125">電擊獸
+(Electabuzz)</a></h2>
+  <h2>0125</h2>
+  <p>身體隨時都在放電，所以只要靠近牠，頭髮就會倒豎起來。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/fd5333ca5e2c3de321183c65cf30536cfcd478b0.png" alt="鴨嘴火獸">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0126">鴨嘴火獸
+(Magmar)</a></h2>
+  <h2>0126</h2>
+  <p>在火山口附近被發現。會從口中吐出火焰。體溫高達１２００度。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/46dc016521478f4d19e78f6547dd58420a793657.png" alt="凱羅斯">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0127">凱羅斯
+(Pinsir)</a></h2>
+  <h2>0127</h2>
+  <p>會和鍬農炮蟲爭奪地盤。不知為何，在阿羅拉這裡，牠和赫拉克羅斯的關係相當不錯。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/89a433428cd759afbc0bd29564de8dda00093900.png" alt="超級凱羅斯">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0127_1">超級凱羅斯
+(Mega Pinsir)</a></h2>
+  <h2>0127</h2>
+  <p>超級進化之後變得可以飛行。也許是因為太開心了，牠幾乎不會降落到地上。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/a0b41d9051cb5c540734d103964d7791105dd243.png" alt="肯泰羅">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0128">肯泰羅
+(Tauro)</a></h2>
+  <h2>0128</h2>
+  <p>鎖定了獵物之後，就會一邊用尾巴抽打身體，一邊筆直地衝向目標。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/829e6633aa53d819a9de0d7784ffafe6e110adf8.png" alt="肯泰羅
+帕底亞的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0128_1">肯泰羅帕底亞的樣子
+(Paldean Tauro)</a></h2>
+  <h2>0128</h2>
+  <p>擅長以肌肉發達的身體打格鬥戰。會用短短的角瞄準對手的要害。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/203138ff222cf647d05410923dc39147882e1a50.png" alt="肯泰羅
+帕底亞的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0128_2">肯泰羅帕底亞的樣子
+(Paldean Tauro)</a></h2>
+  <h2>0128</h2>
+  <p>會用火焰能量將角加熱到攝氏１０００度，被刺中的敵人會受創傷和灼傷所苦。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/147193391a6d16d5c02a2718ef64770663d77fac.png" alt="肯泰羅
+帕底亞的樣子">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0128_3">肯泰羅帕底亞的樣子
+(Paldean Tauro)</a></h2>
+  <h2>0128</h2>
+  <p>會從角尖端的洞噴射出力道強勁的水流，以其高壓來貫穿敵人的身體。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/3755f6d1176c7f8c64f663dae13ef9f1406d007a.png" alt="鯉魚王">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0129">鯉魚王
+(Magikarp)</a></h2>
+  <h2>0130</h2>
+  <p>沒力量的可憐寶可夢。偶爾跳得比較高時，也只是勉強高過2公尺而已。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/ee070a971884e2c4da87d7a728e5821f9636f56d.png" alt="暴鯉龍">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0130">暴鯉龍
+(Gyarados)</a></h2>
+  <h2>0130</h2>
+  <p>據說暴鯉龍一旦現身，如果不把周圍的一切都燃燒殆盡，怒火就不會平息。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/d1b4b9ec796de5d101e85258987036767c37a34b.png" alt="超級暴鯉龍">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0130_1">超級暴鯉龍
+(Mega Gyarados)</a></h2>
+  <h2>0130</h2>
+  <p>超級進化對牠的身體造成了負擔。對此感到壓力的牠會更加兇暴地四處大鬧。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/1583b45023aabc829f405629e4b0d7259f80a2c0.png" alt="拉普拉斯">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0131">拉普拉斯
+(Lapras)</a></h2>
+  <h2>0131</h2>
+  <p>會把人類載在背上渡過大海。據說在牠心情好的時候，還會用美妙的叫聲來唱歌。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt="拉普拉斯超極巨化">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0131_1">拉普拉斯超極巨化
+(Gigantamax Lapras)</a></h2>
+  <h2>0131</h2>
+  <p>可以讓超過５０００個人乘坐在自己背部的甲殼上。完全不會搖晃，坐起來非常舒適。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt="百變怪">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0132">百變怪
+(Ditto)</a></h2>
+  <h2>0132</h2>
+  <p>雖然可以變身得很完美，但一旦被逗笑，就會因鬆懈而解除變身。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/1fab9d9b86c9071e3f10c14b7869e3ec338f1429.png" alt="伊布">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0133">伊布
+(Eevee)</a></h2>
+  <h2>0133</h2>
+  <p>為了能瞬即適應環境的變化，這種寶可夢蘊含著許多種進化的可能性。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/0aed951c7741d950dd6178eebc6def543baf7c16.png" alt="伊布
+超極巨化">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0133_1">伊布
+超極巨化
+(Gigantamax Eevee)</a></h2>
+  <h2>0133</h2>
+  <p>超極巨化之力使得頸部的絨毛變得更加地毛茸茸。會用絨毛包住敵人，同時擄獲牠的心。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/6a744cd8a7461d218c7dab0ff084cad30c4c6872.png" alt="水伊布">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0134">水伊布
+(Vaporeon)</a></h2>
+  <h2>0134</h2>
+  <p>雖然棲息在水邊，但由於尾巴上有像是魚的鰭，因此有的人會把牠誤認成人魚。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/117467cd6471aded1857f44f639965cc3305c4af.png" alt="雷伊布">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0135">雷伊布
+(Jolteon)</a></h2>
+  <h2>0135</h2>
+  <p>會把細胞發出的微弱電流都集中起來釋放強力的電擊。</p>
+    </div>
+<div class="pokemon-card">
+      <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/c837f7f95ed1870458db055583e78c33152c556e.png" alt="火伊布">
+     <h2><a href="https://tw.portal-pokemon.com/play/pokedex/0136">火伊布
+(Flareon)</a></h2>
+  <h2>0136</h2>
+  <p>會將吸入的空氣送進體內的火囊轉化成１７００度的火焰後再吐出來。</p>
+    </div>
+
+        </body>
+</html>
