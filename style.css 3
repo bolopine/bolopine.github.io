@@ -1,0 +1,81 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #fc1303;  
+  border-bottom: 2px solid #fc1303;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #fcf403; 
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-color: #fcfcfc;
+  color: #ffcc00; 
+}
+
+.topnav a.active {
+  background-color: #05b5fa; link
+  color: #ffcc00;
+}
+
+.content {
+  padding: 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:#fcfcfc;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #e80202;
+}
+
+}
+#Poke{
+    width:900%;
+ 
+}
+.photo{
+  transform:translate(500px);
+  position: relative;
+  top: -200px;
+}
+.r{width: 400px;
+   transform:translate(10px);
+   position: relative;
+  top: -0px;
+  }
+.t{
+  width: 400px;
+   transform:translate(10px);
+  position: relative;
+  top: -290px;
+}
+.KKK{
+  width:80%
+}
+.O{
+  transform:translate(500px);
+  position: relative;
+  top: -500px;
+  width: 400px;
